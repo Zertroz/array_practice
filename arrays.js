@@ -14,3 +14,9 @@ console.log(firstAge);
 // This method will add a new element to the array.
 boolean.push(false)
 console.log(boolean)
+
+// This should return "67". Had I not used the .shift method previously, this would return "43".
+console.log(ages[2]);
+
+// This should return "true".
+console.log(boolean[0]);
